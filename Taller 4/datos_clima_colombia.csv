@@ -1,0 +1,36 @@
+ciudad,fecha,dia_semana,condicion_clima,temp_max,temp_min,rango_termico,precipitacion_mm,viento_max_kmh
+Bogotá,2026-08-31,Monday,Llovizna ligera,20.6,12.1,8.5,1.7,17.7
+Bogotá,2026-09-01,Tuesday,Llovizna ligera,21.6,10.8,10.8,1.0,13.8
+Bogotá,2026-09-02,Wednesday,Llovizna ligera,20.4,10.7,9.7,1.5,17.9
+Bogotá,2026-09-03,Thursday,Llovizna ligera,20.5,10.4,10.1,1.6,15.2
+Bogotá,2026-09-04,Friday,Llovizna ligera,20.4,11.4,9.0,0.9,14.2
+Bogotá,2026-09-05,Saturday,Llovizna ligera,20.8,10.9,9.9,0.9,14.9
+Bogotá,2026-09-06,Sunday,Llovizna ligera,20.9,10.1,10.8,2.4,12.5
+Medellín,2026-08-31,Monday,Llovizna moderada,30.1,17.4,12.7,2.7,6.1
+Medellín,2026-09-01,Tuesday,Chubascos ligeros,27.8,17.6,10.2,4.3,7.1
+Medellín,2026-09-02,Wednesday,Chubascos ligeros,29.0,17.2,11.8,3.2,11.3
+Medellín,2026-09-03,Thursday,Llovizna moderada,28.9,17.8,11.1,1.5,10.3
+Medellín,2026-09-04,Friday,Llovizna ligera,29.6,18.6,11.0,2.3,12.8
+Medellín,2026-09-05,Saturday,Llovizna ligera,30.0,17.6,12.4,1.2,13.0
+Medellín,2026-09-06,Sunday,Llovizna ligera,28.9,16.6,12.3,1.0,14.9
+Cali,2026-08-31,Monday,Llovizna moderada,29.3,20.3,9.0,4.6,13.9
+Cali,2026-09-01,Tuesday,Llovizna moderada,27.9,19.7,8.2,4.8,4.4
+Cali,2026-09-02,Wednesday,Chubascos moderados,28.2,19.5,8.7,28.2,5.7
+Cali,2026-09-03,Thursday,Chubascos moderados,27.5,19.9,7.6,13.5,7.2
+Cali,2026-09-04,Friday,Chubascos ligeros,27.9,19.8,8.1,14.2,5.9
+Cali,2026-09-05,Saturday,Chubascos ligeros,28.5,20.2,8.3,14.8,5.6
+Cali,2026-09-06,Sunday,Llovizna densa,28.1,20.1,8.0,4.4,4.9
+Barranquilla,2026-08-31,Monday,Tormenta,31.1,25.3,5.8,9.8,9.1
+Barranquilla,2026-09-01,Tuesday,Tormenta,32.1,25.0,7.1,14.8,10.6
+Barranquilla,2026-09-02,Wednesday,Tormenta,32.5,24.8,7.7,4.9,10.8
+Barranquilla,2026-09-03,Thursday,Tormenta,32.0,26.1,5.9,3.1,10.9
+Barranquilla,2026-09-04,Friday,Llovizna moderada,31.8,25.5,6.3,3.5,13.7
+Barranquilla,2026-09-05,Saturday,Tormenta,32.1,26.3,5.8,5.4,18.2
+Barranquilla,2026-09-06,Sunday,Tormenta,32.6,26.2,6.4,2.4,7.6
+Cartagena,2026-08-31,Monday,Tormenta,30.2,25.7,4.5,11.2,17.1
+Cartagena,2026-09-01,Tuesday,Tormenta,30.4,24.6,5.8,13.5,13.1
+Cartagena,2026-09-02,Wednesday,Tormenta,30.0,25.4,4.6,6.0,10.1
+Cartagena,2026-09-03,Thursday,Tormenta,30.0,24.9,5.1,10.9,11.4
+Cartagena,2026-09-04,Friday,Tormenta,30.1,26.6,3.5,2.6,13.6
+Cartagena,2026-09-05,Saturday,Llovizna ligera,31.3,26.2,5.1,1.5,13.6
+Cartagena,2026-09-06,Sunday,Tormenta,30.1,26.3,3.8,4.2,10.5
